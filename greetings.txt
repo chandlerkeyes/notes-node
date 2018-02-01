@@ -1,0 +1,10 @@
+Hello WorldHello WorldHello WorldHi chandler-keyes
+Hi chandler-keyes
+Hi ${user.username}!
+ Hi ${user.username}!
+ Hi ${user.username}!
+ Hi ${user.username}!
+ Hi ${user.username}!
+ Hi ${user.username}!
+ Hi chandler-keyes age = ${notes.age}
+ Hi chandler-keyes age = 18
